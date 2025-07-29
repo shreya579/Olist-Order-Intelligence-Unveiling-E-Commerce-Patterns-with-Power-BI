@@ -1,5 +1,5 @@
 # 📦 E-Commerce Delivery and Review Analysis Dashboard
-
+![Ecommerce-Wallpaper](screenshots/sales_dashboard.png)
 
 This Power BI project explores the interplay between **order delivery performance**, **customer reviews**, and **product category revenue** using a real-world e-commerce dataset. The aim is to understand how logistics and customer satisfaction metrics impact overall sales performance and business growth.
 
@@ -77,7 +77,7 @@ Key exploration steps:
 * **Map**: Revenue and Orders by Customer State
 
 #### Review 
-[Report_Page1](screenshots/Analysis_Report_page-0001.jpg)
+![Report_Page1](screenshots/Analysis_Report_page-0001.jpg)
 
 ---
 
