@@ -76,6 +76,9 @@ Key exploration steps:
 * **KPI Cards**: Total Revenue, Average Delivery Delay, Order Count
 * **Map**: Revenue and Orders by Customer State
 
+#### Review 
+[Report_Page1](screenshots/Analysis_Report_page-0001.jpg)
+
 ---
 
 ## 📥 Data Cleaning
